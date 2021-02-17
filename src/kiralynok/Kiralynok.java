@@ -21,8 +21,7 @@ public class Kiralynok {
         feladat9();
     }
     private void feladat4(){
-        System.out.println("4. feladat: Az üres tábla megjelenítése: ");
-        Tabla tabla = new Tabla('#');
+        System.out.println("4. feladat: Az üres tábla megjelenítése: ");        
         tabla.megjelenit(); 
     }
     private void feladat6(){
